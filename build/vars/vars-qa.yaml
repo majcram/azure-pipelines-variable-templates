@@ -1,4 +1,4 @@
 variables:
   environmentName: "qa"
-  webAppName: "$(flask)-$(majcram)"
+  webAppName: "$flask-$majcram"
   azureServiceConnection: "remote-access-sc"
